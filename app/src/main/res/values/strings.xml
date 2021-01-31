@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Length Converter</string>
+    <string name="length_converter">Length Converter</string>
+    <string name="convert_from">Convert from</string>
+    <string name="qty">Qty</string>
+    <string name="unit_type">Unit Type</string>
+    <string name="convert_to">Convert to</string>
+    <string name="unit_type1">Unit type</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="answer" />
+
+    <string-array name="font_sizes">
+         <item>Meters</item>
+         <item>Centimeters</item>
+         <item>Kilometers</item>
+         <item>Miles</item>
+    </string-array>
+</resources>
